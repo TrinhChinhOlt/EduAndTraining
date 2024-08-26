@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\WpfApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82020B9B-2622-423E-9FD0-298C9141B6C5}|WpfApp2\\WpfApp2.csproj|c:\\users\\dell\\source\\repos\\wpfapp2\\wpfapp2\\models\\treeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82020B9B-2622-423E-9FD0-298C9141B6C5}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\models\\treeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82020B9B-2622-423E-9FD0-298C9141B6C5}|WpfApp2\\WpfApp2.csproj|c:\\users\\dell\\source\\repos\\wpfapp2\\wpfapp2\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82020B9B-2622-423E-9FD0-298C9141B6C5}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82020B9B-2622-423E-9FD0-298C9141B6C5}|WpfApp2\\WpfApp2.csproj|c:\\users\\dell\\source\\repos\\wpfapp2\\wpfapp2\\models\\reportitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82020B9B-2622-423E-9FD0-298C9141B6C5}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\models\\reportitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82020B9B-2622-423E-9FD0-298C9141B6C5}|WpfApp2\\WpfApp2.csproj|c:\\users\\dell\\source\\repos\\wpfapp2\\wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82020B9B-2622-423E-9FD0-298C9141B6C5}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82020B9B-2622-423E-9FD0-298C9141B6C5}|WpfApp2\\WpfApp2.csproj|c:\\users\\dell\\source\\repos\\wpfapp2\\wpfapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82020B9B-2622-423E-9FD0-298C9141B6C5}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82020B9B-2622-423E-9FD0-298C9141B6C5}|WpfApp2\\WpfApp2.csproj|c:\\users\\dell\\source\\repos\\wpfapp2\\wpfapp2\\models\\fileinf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82020B9B-2622-423E-9FD0-298C9141B6C5}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\models\\fileinf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82020B9B-2622-423E-9FD0-298C9141B6C5}|WpfApp2\\WpfApp2.csproj|c:\\users\\dell\\source\\repos\\wpfapp2\\wpfapp2\\models\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82020B9B-2622-423E-9FD0-298C9141B6C5}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\models\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\source\\repos\\WpfApp2\\WpfApp2\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfApp2\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82020B9B-2622-423E-9FD0-298C9141B6C5}|WpfApp2\\WpfApp2.csproj|c:\\users\\dell\\source\\repos\\wpfapp2\\wpfapp2\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82020B9B-2622-423E-9FD0-298C9141B6C5}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportItem.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\WpfApp2\\WpfApp2\\Models\\ReportItem.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\Models\\ReportItem.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\WpfApp2\\WpfApp2\\Models\\ReportItem.cs",
+              "RelativeToolTip": "WpfApp2\\Models\\ReportItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T00:48:12.078Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\WpfApp2\\WpfApp2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\WpfApp2\\WpfApp2\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-22T08:20:49.563Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\WpfApp2\\WpfApp2\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\WpfApp2\\WpfApp2\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "WpfApp2\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAiwKEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T01:24:32.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileInf.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\WpfApp2\\WpfApp2\\Models\\FileInf.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\Models\\FileInf.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\WpfApp2\\WpfApp2\\Models\\FileInf.cs",
+              "RelativeToolTip": "WpfApp2\\Models\\FileInf.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:47:26.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Folder.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\WpfApp2\\WpfApp2\\Models\\Folder.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\Models\\Folder.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\WpfApp2\\WpfApp2\\Models\\Folder.cs",
+              "RelativeToolTip": "WpfApp2\\Models\\Folder.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T03:05:10.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TreeItem.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\WpfApp2\\WpfApp2\\Models\\TreeItem.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\Models\\TreeItem.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\WpfApp2\\WpfApp2\\Models\\TreeItem.cs",
+              "RelativeToolTip": "WpfApp2\\Models\\TreeItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T02:37:10.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\WpfApp2\\WpfApp2\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\WpfApp2\\WpfApp2\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfApp2\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:23:21.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\WpfApp2\\WpfApp2\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\WpfApp2\\WpfApp2\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs",
+              "RelativeToolTip": "WpfApp2\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAtwDoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:21:21.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\WpfApp2\\WpfApp2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\WpfApp2\\WpfApp2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:20:47.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
