@@ -8,6 +8,8 @@ using System.Windows;
 using System.Windows.Controls;
 using Microsoft.Win32;
 using MVVMCore;
+using WpfApp2.ViewModels;
+using WpfApp2.Views.Dialogs;
 
 namespace WpfApp2
 {
@@ -22,8 +24,14 @@ namespace WpfApp2
             IsTreeSelected_ = false;
             SelectedReportItem_ = new ReportItem();
             ReportItems_ = [];
+
+            AddNodeCmd = new RelayCommand(AddNodeCmdInvoke);
+            RemoveNodeCmd = new RelayCommand(RemoveNodeCmdInvoke);
         }
+
         public RelayCommand ButtonChonThuMucCmd { get; set; }
+        public RelayCommand AddNodeCmd {  get; set; }
+        public RelayCommand RemoveNodeCmd {  get; set; }
 
         private string FolderName_;
         public string FolderName
@@ -190,5 +198,23 @@ namespace WpfApp2
                 windowViewModel.ReportItems = windowViewModel.TreeViewItemToReportList(treeItem);
             }
         }
+        private void AddNodeCmdInvoke(object obj)
+        {
+            AddItemViewModel addItemViewModel = new AddItemViewModel();
+            AddItem addItem = new()
+            {
+                DataContext = addItemViewModel,
+            };
+
+            addItemViewModel.ParentDlg = addItem;
+
+            addItem.ShowDialog();
+        }
+
+        private void RemoveNodeCmdInvoke(object obj)
+        {
+            
+        }
+
     }
 }

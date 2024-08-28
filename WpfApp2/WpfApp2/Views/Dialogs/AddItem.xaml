@@ -1,0 +1,43 @@
+﻿<Window x:Class="WpfApp2.Views.Dialogs.AddItem"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2.Views.Dialogs"
+        mc:Ignorable="d"
+        Title="AddItem" Height="250" Width="250">
+    <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition />
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="1">
+            <StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="2,2,2,2">
+                    <Label Content="Nhập tên" Width="90"></Label>
+                    <TextBox Text="{Binding Name, Mode=TwoWay}" Width="70"></TextBox>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="2,2,2,2">
+                    <Label Content="Mô tả" Width="90"></Label>
+                    <TextBox Text="{Binding Description, Mode=TwoWay}" Width="70"></TextBox>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Row="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+                <ColumnDefinition />
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0" Margin="15, 1,1,1">
+                <Button Content="Cancel" Command="{Binding CancelDialogCmd}" CommandParameter="{Binding}"></Button>
+            </Grid>
+            <Grid Grid.Column="2" Margin="0, 1,15,1">
+                <Button Content="OK" Command="{Binding OkDialogCmd}" CommandParameter="{Binding}"></Button>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

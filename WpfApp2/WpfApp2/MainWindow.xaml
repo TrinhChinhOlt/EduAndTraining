@@ -54,6 +54,12 @@
                                 <Setter Property="IsExpanded" Value="{Binding IsExpanded}" />
                             </Style>
                         </TreeView.ItemContainerStyle>
+                        <TreeView.ContextMenu>
+                            <ContextMenu>
+                                <MenuItem Header="Thêm node" Command="{Binding AddNodeCmd}" CommandParameter="{Binding}"/>
+                                <MenuItem Header="Xóa node" Command="{Binding RemoveNodeCmd}" CommandParameter="{Binding}"/>
+                            </ContextMenu>
+                        </TreeView.ContextMenu>
                     </TreeView>
                 </StackPanel>
             </Grid>
